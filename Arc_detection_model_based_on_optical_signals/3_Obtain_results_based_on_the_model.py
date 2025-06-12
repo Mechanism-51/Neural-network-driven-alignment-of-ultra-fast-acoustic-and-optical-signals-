@@ -22,7 +22,7 @@ import torchvision.models as models
 
 seted_parameter = {'setted_tif_path':'cutted_tif','setted_background_path':'background',
                    'setted_img_transform_height':224,'setted_img_transform_width':224,
-                   'setted_start_1':0,'setted_end_1':467+1,
+                   'setted_start_1':0,'setted_end_1':148+1,
                    'output_file_name':'234output.xlsx'
                   }
 
